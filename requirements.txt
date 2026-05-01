@@ -4,3 +4,5 @@ pydantic[email]==2.8.2
 PyJWT==2.9.0
 bcrypt==4.2.0
 python-dotenv==1.0.1
+httpx==0.28.1
+google-auth==2.36.0
